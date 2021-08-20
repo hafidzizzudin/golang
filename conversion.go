@@ -8,4 +8,8 @@ func conversionfunc() {
 	println(value16)
 	println(value32)
 	println(value64)
+
+	var test = "sdsdsd"
+	println(test[2])
+	println(string(test[2]))
 }
