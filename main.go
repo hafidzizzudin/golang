@@ -6,5 +6,6 @@ func main() {
 	// boolean()
 	// stringfunc()
 	// variable()
-	constantfunc()
+	// constantfunc()
+	conversionfunc()
 }
